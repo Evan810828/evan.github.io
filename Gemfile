@@ -1,4 +1,7 @@
 source "https://rubygems.org"
+gem "liquid", "~> 4.0", ">= 4.0.4"
+# gem "jekyll", "~> 4.3"
+gem "webrick", "~> 1.8"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the

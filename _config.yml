@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yifan (Evan) Wu's Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""
 repository               : "Evan810828/evan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -161,3 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+url: ""
+baseurl: ""

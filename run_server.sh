@@ -1,1 +1,1 @@
-bundle exec jekyll liveserve
+bundle _2.7.1_ exec jekyll serve --livereload --force_polling --host 0.0.0.0
